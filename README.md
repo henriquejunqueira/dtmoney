@@ -9,3 +9,5 @@
 - Running the react application: `$ yarn start`
 
 - Installed dependency in development mode to resolve styled-components compatibility with typescript: `$ yarn add @types/styled-components -D`
+
+- Installed miragejs: `$ yarn add miragejs`
