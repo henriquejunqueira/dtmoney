@@ -25,3 +25,5 @@
 - Reinstalled dependencies to fix conflicts:
 - `$ rm -rf node_modules package-lock.json`
 - `$ npm install`
+
+- Installed polished to use javascript manipulation to manipulate colors within the styling: `$ yarn add polished`
