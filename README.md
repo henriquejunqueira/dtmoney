@@ -27,3 +27,9 @@
 - `$ npm install`
 
 - Installed polished to use javascript manipulation to manipulate colors within the styling: `$ yarn add polished`
+
+### Project images
+
+![Dashboard Image](/src/assets/dashboard.png)
+
+![Modal Image](/src/assets/modal.png)
